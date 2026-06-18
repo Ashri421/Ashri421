@@ -1,4 +1,15 @@
-## Hi there 👋
+# Hi, I'm Ashritha👋
+B.tech student
+
+📜Learning:
+python 
+Sql
+Html
+Css
+
+📞contact:
+ashrithalakkam@gmail.com
+
 
 <!--
 **Ashri421/Ashri421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
